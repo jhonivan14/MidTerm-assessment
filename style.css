@@ -2,9 +2,11 @@
 
   
 
-
-ul {
+.header{
     background-color: gray;
+}
+ul {
+   
     list-style: none;
     display: flex;
     justify-content: end;
