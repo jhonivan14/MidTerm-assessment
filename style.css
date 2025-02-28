@@ -1,8 +1,27 @@
 
-ul li a {
+
+  
+
+
+ul {
+    list-style: none;
     display: flex;
+    justify-content: end;
+    
 
 }
-.hero{
+li{
+    margin: 1rem;
+}
+.Hero{
+    justify-content: center;
+    align-items: center;
     background-color: grey;
+}
+.project{
+    display: flex;
+    padding: 2em;
+}
+.aboutme{
+    ju
 }
